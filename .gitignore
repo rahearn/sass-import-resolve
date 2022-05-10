@@ -7,4 +7,3 @@ package-lock.json
 !.tape.js
 !.travis.yml
 *.log*
-index.js
